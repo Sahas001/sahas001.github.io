@@ -31,28 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "ConverseAI",
+    description: "AI chatbot specialized on answering user's health related queries.",
+    url: "https://github.com/Sahas001/ConverseAI",
   },
   {
-    title: "Web Development for Beginners",
+    title: "AgroGuard: Image Based Plant Disease Detection",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "AgroGuard is a deep-learning-based application that helps us identify different diseases in plants and provides timely cures.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Some ML Projects",
+    description: "Small projects to understand the basics of machine learning and neural networks.",
+    url: "https://github.com/Sahas001/neural-network-mnist-dataset",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "My Github",
+    description: "Link to my github profile where you can find all the projects I have worked on.",
+    url: "https://github.com/Sahas001",
   },
 ];
 
