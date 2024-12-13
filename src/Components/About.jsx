@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Computer Engineering student studying at Pokhara University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a Computer Engineering graduate from Pokhara University. I enjoy creating unique and simplistic user applications in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
